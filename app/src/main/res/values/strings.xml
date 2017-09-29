@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_text">Title</string>
+    <string name="save">Save</string>
+    <string name="note">Note..</string>
+</resources>
